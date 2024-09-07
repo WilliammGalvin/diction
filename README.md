@@ -1,7 +1,9 @@
 # Diction
-Diction is a mobile application build with Flutter. I built it as a way to expand my vocabulary while I read. Often times I would come across a word in a book on the go and want to not only understand what it meant but also save it so I could remember it for later.
+Diction is a mobile application build with Flutter.
+It is built off of the Free Dictionary API (https://dictionaryapi.dev).
 
-This project is built off of the Free Dictionary API (https://dictionaryapi.dev).
+### Why I built this
+I built Diction as a way to expand my vocabulary while I read. A hobby of mine is reading books on philosophy and I kept running into words that I wouldn't know but would be super useful to learn. So, I built this app for not only finding the definition of the word but also to be able to save them for review later.
 
 ### How it works
 First, search your desired word. If you'd like to save the word, you can press the star to favourite it. It will then appear in your favourites tab. In the favourites tab you have a collection of all your favourite words. If you'd like to go back and review their definitions, you can click on them to bring you back.
