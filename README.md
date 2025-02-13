@@ -1,4 +1,5 @@
 # Diction
+## Overview
 Diction is a mobile application build with Flutter.
 It is built off of the Free Dictionary API (https://dictionaryapi.dev).
 
